@@ -1,0 +1,72 @@
+{
+  "timestamp": "2025-06-01T22:45:39.939308",
+  "total_time_seconds": 3065.7525939941406,
+  "chromosomes_processed": 7,
+  "chromosomes_total": 7,
+  "zdna_regions_found": 0,
+  "results": [
+    {
+      "chromosome": "chr4",
+      "success": true,
+      "time": 150.8155426979065,
+      "prob_size_mb": 141.0162181854248,
+      "zscore_size_mb": 62.14639854431152,
+      "prob_file": "z_hunt_results/chr4.fa.probability",
+      "zscore_file": "z_hunt_results/chr4.fa.Z-SCORE"
+    },
+    {
+      "chromosome": "chrY",
+      "success": true,
+      "time": 360.7302498817444,
+      "prob_size_mb": 363.1527919769287,
+      "zscore_size_mb": 159.33861351013184,
+      "prob_file": "z_hunt_results/chrY.fa.probability",
+      "zscore_file": "z_hunt_results/chrY.fa.Z-SCORE"
+    },
+    {
+      "chromosome": "chrX",
+      "success": true,
+      "time": 2194.201861858368,
+      "prob_size_mb": 2526.3603048324585,
+      "zscore_size_mb": 1100.558554649353,
+      "prob_file": "z_hunt_results/chrX.fa.probability",
+      "zscore_file": "z_hunt_results/chrX.fa.Z-SCORE"
+    },
+    {
+      "chromosome": "chr2L",
+      "success": true,
+      "time": 2198.2238500118256,
+      "prob_size_mb": 2527.8048248291016,
+      "zscore_size_mb": 1101.0135889053345,
+      "prob_file": "z_hunt_results/chr2L.fa.probability",
+      "zscore_file": "z_hunt_results/chr2L.fa.Z-SCORE"
+    },
+    {
+      "chromosome": "chr2R",
+      "success": true,
+      "time": 2371.0593819618225,
+      "prob_size_mb": 2720.0374755859375,
+      "zscore_size_mb": 1184.4933195114136,
+      "prob_file": "z_hunt_results/chr2R.fa.probability",
+      "zscore_file": "z_hunt_results/chr2R.fa.Z-SCORE"
+    },
+    {
+      "chromosome": "chr3L",
+      "success": true,
+      "time": 2601.389801979065,
+      "prob_size_mb": 3010.975615501404,
+      "zscore_size_mb": 1310.5658626556396,
+      "prob_file": "z_hunt_results/chr3L.fa.probability",
+      "zscore_file": "z_hunt_results/chr3L.fa.Z-SCORE"
+    },
+    {
+      "chromosome": "chr3R",
+      "success": true,
+      "time": 2952.2525403499603,
+      "prob_size_mb": 3451.930769920349,
+      "zscore_size_mb": 1501.9848022460938,
+      "prob_file": "z_hunt_results/chr3R.fa.probability",
+      "zscore_file": "z_hunt_results/chr3R.fa.Z-SCORE"
+    }
+  ]
+}

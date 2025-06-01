@@ -1,0 +1,8 @@
+GENOMIC ANALYSIS SUMMARY
+==============================
+
+Total structures: 5646
+Structures in promoters: 1698
+Unique genes with structures: 914
+Chromosomes analyzed: 31
+G4 in promoters: 1698

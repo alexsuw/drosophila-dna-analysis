@@ -1,0 +1,84 @@
+dinucleotides 12
+min/max 8 12
+operating on temp_chromosomes/chr2L.fa
+calculating zscore
+opening temp_chromosomes/chr2L.fa
+sequence length 23513513
+opening temp_chromosomes/chr2L.fa.Z-SCORE
+ run time=2115 sec
+analyzing_zscore
+opening temp_chromosomes/chr2L.fa.Z-SCORE
+opening temp_chromosomes/chr2L.fa
+sequence length 23513513
+show_probability
+opening temp_chromosomes/chr2L.fa.probability
+dinucleotides 12
+min/max 8 12
+operating on temp_chromosomes/chr4.fa
+calculating zscore
+opening temp_chromosomes/chr4.fa
+sequence length 1331132
+opening temp_chromosomes/chr4.fa.Z-SCORE
+ run time=119 sec
+analyzing_zscore
+opening temp_chromosomes/chr4.fa.Z-SCORE
+opening temp_chromosomes/chr4.fa
+sequence length 1331132
+show_probability
+opening temp_chromosomes/chr4.fa.probability
+dinucleotides 12
+min/max 8 12
+operating on temp_chromosomes/chr2R.fa
+calculating zscore
+opening temp_chromosomes/chr2R.fa
+sequence length 25280237
+opening temp_chromosomes/chr2R.fa.Z-SCORE
+ run time=2270 sec
+analyzing_zscore
+opening temp_chromosomes/chr2R.fa.Z-SCORE
+opening temp_chromosomes/chr2R.fa
+sequence length 25280237
+show_probability
+opening temp_chromosomes/chr2R.fa.probability
+dinucleotides 12
+min/max 8 12
+operating on temp_chromosomes/chr3L.fa
+calculating zscore
+opening temp_chromosomes/chr3L.fa
+sequence length 27992068
+opening temp_chromosomes/chr3L.fa.Z-SCORE
+ run time=2514 sec
+analyzing_zscore
+opening temp_chromosomes/chr3L.fa.Z-SCORE
+opening temp_chromosomes/chr3L.fa
+sequence length 27992068
+show_probability
+opening temp_chromosomes/chr3L.fa.probability
+dinucleotides 12
+min/max 8 12
+operating on temp_chromosomes/chrY.fa
+calculating zscore
+opening temp_chromosomes/chrY.fa
+sequence length 3409720
+opening temp_chromosomes/chrY.fa.Z-SCORE
+ run time=307 sec
+analyzing_zscore
+opening temp_chromosomes/chrY.fa.Z-SCORE
+opening temp_chromosomes/chrY.fa
+sequence length 3409720
+show_probability
+opening temp_chromosomes/chrY.fa.probability
+dinucleotides 12
+min/max 8 12
+operating on temp_chromosomes/chr3R.fa
+calculating zscore
+opening temp_chromosomes/chr3R.fa
+sequence length 32054760
+opening temp_chromosomes/chr3R.fa.Z-SCORE
+ run time=2868 sec
+analyzing_zscore
+opening temp_chromosomes/chr3R.fa.Z-SCORE
+opening temp_chromosomes/chr3R.fa
+sequence length 32054760
+show_probability
+opening temp_chromosomes/chr3R.fa.probability

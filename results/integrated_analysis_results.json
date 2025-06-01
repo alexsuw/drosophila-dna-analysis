@@ -1,0 +1,21 @@
+{
+  "analysis_type": "integrated_z_dna_g4_analysis",
+  "timestamp": "2025-06-01T23:05:20.085890",
+  "datasets": {
+    "g4_structures": {
+      "count": 5646,
+      "chromosomes": 31,
+      "avg_length": 24.778427205100957
+    },
+    "zdna_structures": {
+      "count": 184049,
+      "chromosomes": 7,
+      "avg_zscore": 344.05687615797973,
+      "zscore_range": [
+        300.0,
+        399.8
+      ]
+    }
+  },
+  "colocalization": {
+    "total_colocalizations": 

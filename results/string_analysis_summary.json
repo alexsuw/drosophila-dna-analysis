@@ -1,0 +1,9 @@
+{
+  "analysis_type": "STRING Database Functional Enrichment",
+  "species": "Drosophila melanogaster (7227)",
+  "input_genes": 663,
+  "mapped_genes": 663,
+  "enrichment_terms": 143,
+  "significant_terms": 143,
+  "protein_interactions": 112
+}

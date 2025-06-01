@@ -1,0 +1,55 @@
+{
+  "total_structures": 184049,
+  "parameters": {
+    "min_zscore": 300,
+    "max_zscore": 400
+  },
+  "chromosome_stats": {
+    "chr2L": {
+      "count": 29551,
+      "avg_zscore": 343.971523806301,
+      "max_zscore": 399.8,
+      "min_zscore": 300.0
+    },
+    "chr2R": {
+      "count": 33884,
+      "avg_zscore": 343.75831070711837,
+      "max_zscore": 399.8,
+      "min_zscore": 300.0
+    },
+    "chr3L": {
+      "count": 33838,
+      "avg_zscore": 343.6950676753945,
+      "max_zscore": 399.8,
+      "min_zscore": 300.0
+    },
+    "chr3R": {
+      "count": 44481,
+      "avg_zscore": 343.6931993435399,
+      "max_zscore": 399.8,
+      "min_zscore": 300.0
+    },
+    "chr4": {
+      "count": 1008,
+      "avg_zscore": 341.31765873015877,
+      "max_zscore": 399.8,
+      "min_zscore": 300.0
+    },
+    "chrX": {
+      "count": 38870,
+      "avg_zscore": 345.2707512220221,
+      "max_zscore": 399.8,
+      "min_zscore": 300.0
+    },
+    "chrY": {
+      "count": 2417,
+      "avg_zscore": 342.66516342573436,
+      "max_zscore": 399.8,
+      "min_zscore": 300.0
+    }
+  },
+  "processing_info": {
+    "processed_files": 7,
+    "successful_files": 7
+  }
+}
